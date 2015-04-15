@@ -4,7 +4,8 @@
 Will generate an EDL list based on a searchword. This EDL list can later be used with mplayer.
 
 Usage: 
-``` python video.py SEARCHWORD PATH_TO_VIDEOFILE
+``` 
+python video.py SEARCHWORD PATH_TO_VIDEOFILE
 ```
 Example:
 ```
